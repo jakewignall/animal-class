@@ -70,7 +70,7 @@ public:
     
     void doANoise() override
     {
-        cout << "baaa\n";
+        cout << "baaa\n"; // print the animal noise to the screen
     }
 };
 
